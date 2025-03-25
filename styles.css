@@ -80,7 +80,7 @@ p {margin: 10px;
     margin: 10px;
 }      
 #works {
-    max-width: 200px;
+    max-width: 20%;
     height: auto;
     margin: 2px;
     object-fit: scale-down;
